@@ -65,6 +65,14 @@ Supporting variables (not visualized in the dashboard but used for analysis):
 
 ## 📈 Visualizations
 
-```markdown
-![Distribution of Cases by District](images/cases-by-district.png)
-![Victim Age Groups](images/victim-age.png)
+```
+![simple dashboard](images/SIMPLE_INFOGRAFIS.png)
+![infografis](images/dashboard.png)
+```
+link to tableau public: 
+
+```
+https://public.tableau.com/views/KekerasanAnakdanPerempuanGorontalo2024/SIMPLEINFOGRAFIS?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+```
+
+
