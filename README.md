@@ -65,10 +65,10 @@ Supporting variables (not visualized in the dashboard but used for analysis):
 
 ## 📈 Visualizations
 
-```
+
 ![simple dashboard](images/SIMPLE_INFOGRAFIS.png)
 ![infografis](images/dashboard.png)
-```
+
 link to tableau public: 
 
 ```
